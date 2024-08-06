@@ -1,0 +1,35 @@
+.article-user-item{
+    display: inline-block;
+}
+
+.profile-user-item{
+    display: inline-block;
+}
+
+.justify-content-center{
+    text-align: center;
+}
+
+
+nav.navbar .container .navbar-brand{
+    display: inline-block !important;
+}
+nav.navbar .container {
+    text-align: center;
+}
+nav.navbar .container .dropdown{
+    display: inline-block !important;
+}
+nav.navbar .container .dropdown input{
+    display: inline-block !important;
+}
+nav.navbar .container .navbar-toggler{
+    display: inline-block !important;
+}
+
+.pagination{
+    display: inline-block !important;
+}
+.pagination .page-item{
+    display: inline-block !important;
+}
