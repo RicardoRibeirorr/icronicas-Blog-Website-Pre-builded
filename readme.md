@@ -8,8 +8,7 @@
 </p>
 
 ## About Project
-
-This project is already set up with Authorization meaning(user login, register and also password reset), local storage to "storage" folder, bootstrap and font awesome.
+Whether you're a seasoned writer or just starting out, iCronicas provides a space for you to express your thoughts, share your experiences, and connect with a community of readers and bloggers. With an easy-to-use interface and a focus on creativity, iCronicas lets you publish your blogs on any topic that inspires you. Join iCronicas today and start crafting your own chronicles, one post at a time.
 
 ## Install
 1. Download or clone the project.
